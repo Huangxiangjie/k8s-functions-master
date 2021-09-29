@@ -12,6 +12,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 public class K8sFunctionsApplication {
 
+
+
     public static void main(String[] args) {
         SpringApplication.run(K8sFunctionsApplication.class, args);
     }
